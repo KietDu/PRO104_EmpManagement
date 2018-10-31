@@ -4,6 +4,8 @@ public class User {
     private String username;
     private String password;
     private boolean vaiTro; //user (0) or admin (1)
+    
+    // comment cái nè
 
     public User(String username, String password, boolean vaiTro) {
         this.username = username;
